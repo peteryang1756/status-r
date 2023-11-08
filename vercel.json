@@ -2,12 +2,12 @@
   "redirects": [
     { 
       "source": "/",
-      "destination": "https://status.ssangyongsports.org",
+      "destination": "https://status.ssangyongsports.eu.org",
       "permanent": true
     },
     { 
       "source": "/:path*",
-      "destination": "https://status.ssangyongsports.org/:path*",
+      "destination": "https://status.ssangyongsports.eu.org/:path*",
       "permanent": true
     }
   ]
